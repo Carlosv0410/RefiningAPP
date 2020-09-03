@@ -1,0 +1,2 @@
+conda activate Streamlitpro
+streamlit run PythonRefineryKPI.py
